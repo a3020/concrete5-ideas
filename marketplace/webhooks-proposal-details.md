@@ -120,6 +120,20 @@ The events and data sent for each would be:
     }
 ````
 
+- On marketplace page visit
+
+````
+    {
+        "object": "marketplace_page_visited",
+        "created": 1507929225,
+        "data": {
+            "object": {
+                "handle": "package_handle",
+            }
+        }
+    }
+````
+
 For the license data we might need an object of arrays as I am not sure how it works for bulk sales.
 
 ## Benefits
