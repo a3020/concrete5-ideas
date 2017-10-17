@@ -19,8 +19,11 @@ See https://www.concrete5.org/marketplace/
 1. Display the number of downloads/licenses sold for add-ons. (ramonleenders)
 1. Add an integration with Github so that new releases on Github are automatically added as release on concrete5.org. (a3020)
 1. Allow us to provide a webhook to receive information about marketplace happenings. [Read details](marketplace/webhooks-proposal-details.md) (mnakalay)
+1. Replace the `white-space: nowrap` with `white-space: normal` in the Uploaded Files table (/marketplace/manage_files)
+1. Add a hook trigger to [Read details](marketplace/webhooks-proposal-details.md) when the marketplace page is visited
 
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
 - [a3020](https://github.com/a3020)
 - [mnakalay](https://github.com/mnakalay)
+- [danielgasser](https://github.com/danielgasser)
