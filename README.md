@@ -1,12 +1,20 @@
 # concrete5 ideas
 
-## concrete5.org
+The goal of this document is to gather ideas of how
+concrete5 can improve its communication via different channels.
+Many of these ideas cannot be executed by its authors. This document
+however can be taken as a resource for the concrete5 team when things
+are to be changed. The list is gathered by active concrete5 community members
+who want to express their ideas, suggestions, and wishes.
+
+
+## Website
 
 See https://www.concrete5.org
 
 - Remove the 'We Can Build It Together' alert box, as it moves the whole layout. (a3020)
 
-## concrete5.org - Marketplace
+## Marketplace
 
 See https://www.concrete5.org/marketplace/
 
