@@ -30,6 +30,7 @@ See https://www.concrete5.org/marketplace/
 1. Add an integration with Github so that new releases on Github are automatically added as release on concrete5.org. (a3020)
 1. Replace the `white-space: nowrap` with `white-space: normal` in the Uploaded Files table ('Notes' column) on /marketplace/manage_files. When writing a longer comment the page gets horizontally out of the screen view. (danielgasser)
 1. Trigger an update on composer.concrete5.org every time a free add-on has been updated. (a3020)
+1. Ability to filter on the minimum concrete5 version that is required. (a3020)
 
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
