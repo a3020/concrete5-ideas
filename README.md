@@ -31,6 +31,7 @@ See https://www.concrete5.org/marketplace/
 1. Replace the `white-space: nowrap` with `white-space: normal` in the Uploaded Files table ('Notes' column) on /marketplace/manage_files. When writing a longer comment the page gets horizontally out of the screen view. (danielgasser)
 1. Trigger an update on composer.concrete5.org every time a free add-on has been updated. (a3020)
 1. Ability to filter on the minimum concrete5 version that is required. (a3020)
+1. Some indicator of when the developer was last active, average response time, days of no-response support requests, aggregated across all of a developer's addons. (JohnTheFish)
 
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
