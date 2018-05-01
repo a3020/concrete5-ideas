@@ -34,6 +34,12 @@ See https://www.concrete5.org/marketplace/
 1. Some indicator of when the developer was last active, average response time, days of no-response support requests, aggregated across all of a developer's addons. (JohnTheFish)
 1. Ability to filter on packages from a certain author. (a3020)
 
+## Documentation
+
+See https://documentation.concrete5.org
+
+1. It shows "You have not contributed any documentation to concrete5." even though one might have updated existing documentation pages. 
+
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
 - [a3020](https://github.com/a3020)
