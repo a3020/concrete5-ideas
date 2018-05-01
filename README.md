@@ -45,3 +45,4 @@ See https://documentation.concrete5.org
 - [a3020](https://github.com/a3020)
 - [mnakalay](https://github.com/mnakalay)
 - [danielgasser](https://github.com/danielgasser)
+- [JohnTheFish](https://github.com/johnthefish)
