@@ -32,6 +32,7 @@ See https://www.concrete5.org/marketplace/
 1. Trigger an update on composer.concrete5.org every time a free add-on has been updated. (a3020)
 1. Ability to filter on the minimum concrete5 version that is required. (a3020)
 1. Some indicator of when the developer was last active, average response time, days of no-response support requests, aggregated across all of a developer's addons. (JohnTheFish)
+1. Ability to filter on packages from a certain author. (a3020)
 
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
