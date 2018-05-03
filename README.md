@@ -33,6 +33,7 @@ See https://www.concrete5.org/marketplace/
 1. Ability to filter on the minimum concrete5 version that is required. (a3020)
 1. Some indicator of when the developer was last active, average response time, days of no-response support requests, aggregated across all of a developer's addons. (JohnTheFish)
 1. Ability to filter on packages from a certain author. (a3020)
+1. Make the 'Get Support' button clearer. Some users mistakenly see this button as 'General concrete5 support', so not add-on related. [See this example.](https://www.concrete5.org/marketplace/addons/devoda-seo/support/breadcrumbs-appearing-in-header-while-logged-out-but-not-while-l/) (ramonleenders)
 
 ## Documentation
 
