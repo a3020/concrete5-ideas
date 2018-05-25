@@ -36,6 +36,9 @@ See https://www.concrete5.org/marketplace/
 1. Ability to filter on packages from a certain author. (a3020)
 1. Make the 'Get Support' button clearer. Some users mistakenly see this button as 'General concrete5 support', so not add-on related. [See this example.](https://www.concrete5.org/marketplace/addons/devoda-seo/support/breadcrumbs-appearing-in-header-while-logged-out-but-not-while-l/) (ramonleenders)
 1. The ability to easily add code blocks with highlighting to the marketplace pages. (a3020)
+1. Show in which size developers should upload their marketplace images. E.g. 1500x900. (a3020)
+1. Show the date when an add-on was last updated. (a3020)
+1. Make it possible to sort the documentation pages. For example, I want 'Roadmap' always shown last. (a3020) 
 
 ## Documentation
 
