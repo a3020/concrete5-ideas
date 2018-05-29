@@ -48,7 +48,9 @@ See https://www.concrete5.org/marketplace/
 
 See https://documentation.concrete5.org
 
-1. It shows "You have not contributed any documentation to concrete5." even though one might have updated existing documentation pages. 
+1. It shows "You have not contributed any documentation to concrete5." even though one might have updated existing documentation pages.
+1. Documentation per concrete5 version, similar to [https://laravel.com/docs](https://laravel.com/docs). (a3020)
+1. Make it transparent who are in the documentation team. (a3020)
 
 ## Contributors
 - [ramonleenders](https://github.com/ramonleenders)
