@@ -39,7 +39,10 @@ See https://www.concrete5.org/marketplace/
 1. Show in which size developers should upload their marketplace images. E.g. 1500x900. (a3020)
 1. Show the date when an add-on was last updated. (a3020)
 1. Make it possible to sort the documentation pages. For example, I want 'Roadmap' always shown last. (a3020) 
-1. A feed or list with add-ons that have been updated recently. (a3020) 
+1. A feed or list with add-ons that have been updated recently. (a3020)
+1. Weekly featured themes/add-ons (marketplace home page) (hostco)
+1. Offer/promote discounts to theme/add-on customers that submit sites to the show case. Promote transparency to fight license abuse. (hostco)
+
 
 ## Documentation
 
