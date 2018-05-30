@@ -56,6 +56,10 @@ Goal: Prevent abuse of the license.
 1. Make it configurable for the add-on developer whether a URL is required along with the support ticket. (a3020)
 
 
+## Forum
+1. Fix the bug with hyperlinks that don't show a space in front of them. (a3020)
+
+
 ## Documentation
 
 See https://documentation.concrete5.org
