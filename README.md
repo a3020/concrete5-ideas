@@ -40,7 +40,9 @@ See https://www.concrete5.org/marketplace/
 1. Show the date when an add-on was last updated. (a3020)
 1. Make it possible to sort the documentation pages. For example, I want 'Roadmap' always shown last. (a3020) 
 1. A feed or list with add-ons that have been updated recently. (a3020)
-1. Weekly featured themes/add-ons (marketplace home page) (hostco)
+1. Weekly featured themes/add-ons (marketplace home page). (hostco)
+1. Split licenses on /profile/orders/ page between legacy and non-legacy. ([ODKnet](https://www.concrete5.org/developers/pro-accounts/community-leaders-area/community-leaders-discussion/state-of-the-concrete5-addon-marketplace-in-2016/#841915))
+1. Provide a way to upload and insert images relating to a marketplace page that are not part of the screenshot list. ([JohnTheFish](https://www.concrete5.org/developers/pro-accounts/community-leaders-area/community-leaders-discussion/thoughts-on-a-better-marketplace./#619023))
 
 ## Maintaining the license model
 Goal: Prevent abuse of the license.
