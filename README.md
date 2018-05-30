@@ -41,7 +41,17 @@ See https://www.concrete5.org/marketplace/
 1. Make it possible to sort the documentation pages. For example, I want 'Roadmap' always shown last. (a3020) 
 1. A feed or list with add-ons that have been updated recently. (a3020)
 1. Weekly featured themes/add-ons (marketplace home page) (hostco)
+
+## Maintaining the license model
+Goal: Prevent abuse of the license.
 1. Offer/promote discounts to theme/add-on customers that submit sites to the show case. Promote transparency to fight license abuse. (hostco)
+1. Let add-on developers 'report' if they know a certain user is violating the license. (a3020)
+1. Inform users (again) about the policy when x-amount of reports have been submitted. (a3020)
+1. Block marketplace purchases if a user continues to violate the license. (a3020)
+1. Write a blog about the license model, and why it's important. (a3020)
+1. When downloading an archive of a paid add-on, add a notice that there is a '1 license per site' policy. (a3020)
+1. Add a warning if a user tries to post a support ticket but the license is unassigned, in order to stimulate assigning licenses. (a3020)
+1. Make it configurable for the add-on developer whether a URL is required along with the support ticket. (a3020)
 
 
 ## Documentation
