@@ -13,7 +13,7 @@ who want to express their ideas, suggestions, and wishes.
 See https://www.concrete5.org
 
 - Always use HTTPS (e.g. on [login page](http://www.concrete5.org/login)). (a3020)
-- ~~Remove the 'We Can Build It Together' alert box, as it moves the whole layout. (a3020)~~ = fixed 
+- Remove the 'We Can Build It Together' alert box, as it moves the whole layout. (a3020) 
 
 ## Marketplace
 
