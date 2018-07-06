@@ -45,6 +45,7 @@ See https://www.concrete5.org/marketplace/
 1. Provide a way to upload and insert images relating to a marketplace page that are not part of the screenshot list. ([JohnTheFish](https://www.concrete5.org/developers/pro-accounts/community-leaders-area/community-leaders-discussion/thoughts-on-a-better-marketplace./#619023))
 1. Bug: the 'screencast' field can't be emptied. It's not possible to remove a screencast from an add-on. (a3020)
 1. When changing the minimum required version of an add-on / theme, it needs to be reselected on each upload. (JohnTheFish)
+1. Show the last compatible version on the marketplace page. (ramonleenders)
 
 ## Maintaining the license model
 Goal: Prevent abuse of the license.
