@@ -46,6 +46,7 @@ See https://www.concrete5.org/marketplace/
 1. Bug: the 'screencast' field can't be emptied. It's not possible to remove a screencast from an add-on. (a3020)
 1. When changing the minimum required version of an add-on / theme, it needs to be reselected on each upload. (JohnTheFish)
 1. Show the last compatible version on the marketplace page. (ramonleenders)
+1. Adding the same add-on to both the 5.6 and 5.7 marketplace will create an '/add-on1' kind of slug (which is pretty ugly). (a3020)
 
 ## Maintaining the license model
 Goal: Prevent abuse of the license.
