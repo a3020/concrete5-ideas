@@ -48,6 +48,7 @@ See https://www.concrete5.org/marketplace/
 1. Show the last compatible version on the marketplace page. (ramonleenders)
 1. Adding the same add-on to both the 5.6 and 5.7 marketplace will create an '/add-on1' kind of slug (which is pretty ugly). (a3020)
 1. Marketplace reviews may have attachments but they are not shown on the reviews page. (a3020)
+1. The ability to delete / deactivate add-ons or themes. (a3020)
 
 ## Maintaining the license model
 Goal: Prevent abuse of the license.
